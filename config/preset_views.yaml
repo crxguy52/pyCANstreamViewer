@@ -1,8 +1,4 @@
-pyro_current_only:
-- - i_measured
-pyro_example:
-- - i_measured
-- - temp_local
-- - v_2p5_ref
-  - v_30_supply
-  - v_5_supply
+miata_1:
+- - eng_speed
+- - eng_coolant_temp
+- - eng_oil_pressure
